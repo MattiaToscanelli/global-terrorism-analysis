@@ -1,7 +1,8 @@
 # Global terrorism analysis
 
 ## Introduction
-This project shows analyses regarding terrorist attacks from 1970 to 2017. General, temporal, and geographical analyses are performed.
+This project shows analyses regarding terrorist attacks from 1970 to 2017. General, temporal, and geographical analyses are performed. <br><br>
+Take a look at the notebook [here](https://mattiatoscanelli.github.io/global-terrorism-analysis/).
 
 ## Team
 - Bryan Beffa
