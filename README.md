@@ -14,7 +14,7 @@ This project shows analyses regarding terrorist attacks from 1970 to 2017. Gener
 - Region --> The geographical region (≠ continent) where the attack happened
 - Target --> The group, the target that was attacked.
 - Killed --> Number of victims of the attack
-- Weapon_type -> Weapon used for the attack
+- Weapon_type --> Weapon used for the attack
 
 ### Libraries
 - Numpy
