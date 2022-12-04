@@ -17,12 +17,12 @@ Take a look at the notebook [here](https://mattiatoscanelli.github.io/global-ter
 - Killed --> Number of victims of the attack
 - Weapon_type --> Weapon used for the attack
 
-### Libraries
+## Libraries
 - Numpy
 - Pandas
 - Plotly
 - Calendar
 
-### Dataset Source
+## Dataset Source
 https://www.kaggle.com/datasets/START-UMD/gtd?datasetId=504&sortBy=voteCount (03.12.2022)<br>
 https://www.kaggle.com/datasets/kaggleashwin/population-dataset (03.12.2022) --> For proportions a based on population and maps - 1 line for each country
